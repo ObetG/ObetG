@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm ObetG</h1>
+<div align="center">
+ <h1>Hi, I'm ObetG! 👨‍💻</h1>
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNzZXRza2ZjdHNhdDEzdjE1ejV5aHdza3lhcTg0ZGFjMW40bW96dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZpxHQmaof5v96xDyXh/giphy.gif" width="100%" style="border-radius: 10px;" /> 
+</div>
 <h3 align="center">A passionate frontend and Backend from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obetg&label=Profile%20views&color=0e75b6&style=flat" alt="obetg" /> </p>
