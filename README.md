@@ -38,3 +38,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ObetG&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true&hide_title=true" alt="Activity Graph" />
 </div>
+
+<div align="center">
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhxdmFjbXZ2NW56OGdidXgxcjBjaXptd3Q3Z291MG13c3g5N2p4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8wheSKQng0kkiQ/giphy.gif" width="100%" style="border-radius: 10px;" /> 
+ <h1>👉 HATUR NUHUN BARAYA 👈</h1>
+</div>
