@@ -4,9 +4,6 @@
 </div>
 <h3 align="center">A passionate frontend and Backend from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obetg&label=Profile%20views&color=0e75b6&style=flat" alt="obetg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obetg" alt="obetg" /></a> </p>
 
 - 🔭 I’m currently working on **Home**
 
@@ -32,8 +29,12 @@
   <img src="https://raw.githubusercontent.com/ObetG/ObetG/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-### 📊 GitHub Analytics
+### 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ObetG&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ObetG&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObetG&layout=compact&theme=tokyonight&hide_border=true)
+### 📈 Coding Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ObetG&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true&hide_title=true" alt="Activity Graph" />
+</div>
