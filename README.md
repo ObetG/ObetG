@@ -34,12 +34,6 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ObetG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObetG&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" height="150" alt="languages graph" />
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ObetG&theme=tokyonight&hide_border=true)
 
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObetG&layout=compact&theme=tokyonight&hide_border=true)
